@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bravin
+- Hit me up on bravinshumwe.coding@gmail.com
+- Let's learn .net 6 and 7 ...
